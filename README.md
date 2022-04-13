@@ -4,7 +4,7 @@
 
 💻 Currently I am attending SheCodes Responsive Class to learn about reponsive design, advanced Bootstrap and multiple page hosting. 
 
-👩‍💻 In effect I will build my own online Portfolio.
+👩‍💻 I will build my own online Portfolio during the SheCodes Responsive Class.
 
 🎯 In the future I am planning to learn Spanish and take SheCodes React Coding Class. 
 
